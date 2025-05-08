@@ -5,7 +5,7 @@ import requests
 import os
 from dotenv import load_dotenv
 
-python# Chargement des variables d'environnement
+# Chargement des variables d'environnement
 load_dotenv()
 
 # Essayer de récupérer la clé API de différentes sources
